@@ -1,5 +1,5 @@
 ---
-title: "Hello World - Rolwin's first blog 😇"
+title: "Hello World - David Medina 😇"
 path: blog/hello-world-rolwins-first-blog
 tags: [javascript, html,css]
 cover: ./rolwin.jpg
